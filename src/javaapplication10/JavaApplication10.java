@@ -20,6 +20,7 @@ public class JavaApplication10 {
     {
      System.out.println("hola mundo");
      System.out.println("marcela es fara");
+     System.out.println("hola befy");
         // TODO code application logic here
     }
     
